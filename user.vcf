@@ -8,7 +8,7 @@ TITLE:Data Analyst
 EMAIL;type=INTERNET;type=WORK;type=pref:chris.taylor@savills.com.hk
 TEL;type=WORK;type=VOICE:+852 92727315
 item1.ADR;type=WORK;type=pref:;;12th Fl., Cityplaza one, 1111 King's Road, Taikoo Shing\, 09-01;;; ;Hong Kong
-item1.X-ABADR:sg
+item1.X-ABADR:hk
 item2.URL;type=pref:savills.com.hk
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
