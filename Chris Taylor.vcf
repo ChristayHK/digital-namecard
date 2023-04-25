@@ -3,6 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.5.1//EN
 N:Taylor;Chris;;;
 FN:Chris Taylor
+ORG: Savills
+TITLE:Data Analyst
+PHOTO;TYPE=JPEG;VALUE=URI:https://github.com/ChristayHK/digital-namecard/blob/master/assets/Chris_sqc.jpg
 EMAIL;type=INTERNET;type=HOME;type=pref:chris.taylor@savills.asia
 TEL;type=CELL;type=VOICE;type=pref:+85292727315
 END:VCARD
